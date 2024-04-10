@@ -10,8 +10,10 @@ run lua separately for use cheat!
 
 Executers:KRAMPUS(idk) Wave(works)
 
-radar not recomended for use
+### cheats
 
-Crosshair works
+`#ff0000` radar not recomended for use
 
-esp 50/50
+`#00ff08` Crosshair works
+
+`#fbff00` esp 50/50
