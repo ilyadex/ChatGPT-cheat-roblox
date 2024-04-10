@@ -12,8 +12,8 @@ Executers:KRAMPUS(idk) Wave(works)
 
 ### cheats
 
-`#ff0000` radar not recomended for use
+`radar not recomended for use`
 
-`#00ff08` Crosshair works
+`Crosshair works`
 
-`#fbff00` esp 50/50
+`esp 50/50`
