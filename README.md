@@ -10,6 +10,10 @@ run lua separately for use cheat!
 
 Executers:KRAMPUS(idk) Wave(works)
 
+### forum cheat
+
+https://discord.gg/szfcpKcvkB
+
 ### cheats
 
 `radar not recomended for use`
